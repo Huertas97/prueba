@@ -1,3 +1,5 @@
 # prueba
 
-![](Capture.JPG )
+
+
+<img src="Capture.JPG" width="200">
